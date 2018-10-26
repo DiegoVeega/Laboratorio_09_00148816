@@ -1,0 +1,5 @@
+1. 
+2. La variable req contiene la request o peticion que se enviara al servidor
+    la variable res contiene el response o respuesta que se retorna tras la peticion.
+3. 
+4. 
